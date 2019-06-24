@@ -1,0 +1,20 @@
+{
+	"hosting": {
+		"S3AndCloudFront": {
+			"service": "S3AndCloudFront",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"auth": {
+		"megurodev72113438": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"xr": {
+		"megurodev": {
+			"service": "Sumerian",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

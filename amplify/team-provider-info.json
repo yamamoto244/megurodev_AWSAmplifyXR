@@ -1,0 +1,27 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "meguro-dev-dev-20190603223149-authRole",
+            "UnauthRoleArn": "arn:aws:iam::589849493689:role/meguro-dev-dev-20190603223149-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::589849493689:role/meguro-dev-dev-20190603223149-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "meguro-dev-dev-20190603223149-deployment",
+            "UnauthRoleName": "meguro-dev-dev-20190603223149-unauthRole",
+            "StackName": "meguro-dev-dev-20190603223149",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:589849493689:stack/meguro-dev-dev-20190603223149/f15b57f0-8603-11e9-baa8-06ccdf35fc80"
+        },
+        "categories": {
+            "auth": {
+                "megurodev72113438": {}
+            },
+            "xr": {
+                "megurodev": {
+                    "url": "https://sumerian.ap-northeast-1.amazonaws.com/20180801/projects/Drafts/release/authTokens?sceneId=389b61e25ce5426a8a7bd28b831b2801.scene",
+                    "sceneId": "389b61e25ce5426a8a7bd28b831b2801.scene",
+                    "region": "ap-northeast-1",
+                    "projectName": "Drafts"
+                }
+            }
+        }
+    }
+}
